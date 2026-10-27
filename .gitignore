@@ -1,0 +1,19 @@
+# 登录凭证 —— 绝对不进仓库
+data/
+session.json
+qr/
+
+# 备份
+*.bak
+*.bak-*
+*.bak.*
+
+# 日志
+*.log
+logs/
+
+# 系统
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
